@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">RecyclerView OnclickListener</string>
+    <string name="title">IT CAREERS</string>
+
+    <string-array name="career_titles">
+        <item>Cyber Security</item>
+        <item>The Internet Of Things</item>
+        <item>Mobile Computing</item>
+        <item>Artificial Intelligence</item>
+        <item>Machine Learning</item>
+        <item>Deep Learning</item>
+        <item>Data Engineering</item>
+        <item>Software Engineering</item>
+        <item>Web Development</item>
+        <item>Cloud Engineering</item>
+        <item>Robotics Engineering</item>
+        <item>Network Engineering</item>
+    </string-array>
+
+    <string-array name="career_descriptions">
+        <item>Cyber security is the practice of protecting systems, networks, and programs from digital attacks. These cyber attacks are usually aimed at
+            accessing, changing, or destroying sensitive information; extorting money from users; or interrupting normal business processes.
+                Implementing effective cyber security measures is particularly challenging today because there are more devices than people,
+                and attackers are becoming more innovative.</item>
+
+        <item>IoT software engineering refers to the systematic development of IoT infrastructure using a blend of software and hardware solutions.
+                IoT software engineering deals with data collected via sensors and processes it to make sense for real-world applications with intuitive
+               UI and visual representation</item>
+
+        <item>Mobile computing is human–computer interaction in which a computer is expected to be transported during normal usage,
+                 which allows for the transmission of data, voice, and video. Mobile computing involves mobile communication, mobile hardware,
+                and mobile software. Communication issues include ad hoc networks and infrastructure networks as well as communication properties,
+               protocols, data formats, and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals
+               with the characteristics and requirements of mobile applications.</item>
+
+        <item>According to the father of Artificial Intelligence, John McCarthy, it is “The science and engineering of making intelligent machines,
+               especially intelligent computer programs”.Artificial Intelligence is a way of making a computer, a computer-controlled robot, or a software
+              think intelligently, in the similar manner the intelligent humans think.AI is accomplished by studying how human brain thinks, and how
+              humans learn, decide, and work while trying to solve a problem, and then using the outcomes of this study as a basis of developing intelligent
+               software and systems.</item>
+
+        <item>Machine learning (ML) is the subset of artificial intelligence (AI) that focuses on building systems that learn—or improve performance—based
+                 on the data they consume. Artificial intelligence is a broad term that refers to systems or machines that mimic human intelligence.</item>
+
+        <item>Deep learning (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural
+               networks with representation learning. Learning can be supervised, semi-supervised or unsupervised.Deep-learning architectures such
+                as deep neural networks, deep belief networks, deep reinforcement learning, recurrent neural networks, convolutional neural networks and
+                Transformers have been applied to fields including computer vision, speech recognition, natural language processing, machine translation,
+                bioinformatics, drug design, medical image analysis, climate science, material inspection and board game programs, where they have produced
+              results comparable to and in some cases surpassing human expert performance.Artificial neural networks (ANNs) were inspired by
+               information processing and distributed communication nodes in biological systems.ANNs have various differences from biological brains.
+               Specifically, artificial neural networks tend to be static and symbolic, while the biological brain of most living organisms is dynamic
+               (plastic) and analogue.</item>
+
+        <item>Information engineering, also known as data engineering, information technology engineering or information engineering methodology,
+                 refers to the building of systems to enable the collection and usage of data.</item>
+
+        <item>Software engineering is a systematic engineering approach to software development. A software engineer is a person who applies the
+                 principles of software engineering to design, develop, maintain, test, and evaluate computer software.</item>
+
+        <item>Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing
+              a simple single static page of plain text to complex web applications, electronic businesses, and social network services</item>
+
+        <item>Cloud engineering is the application of engineering disciplines to cloud computing. It brings a systematic approach to concerns of
+                commercialization, standardization, and governance of cloud computing applications. </item>
+
+        <item>Robotics is an interdisciplinary branch of computer science and engineering. Robotics involves design, construction, operation, and
+                use of robots. The goal of robotics is to design machines that can help and assist humans.</item>
+
+        <item>A network engineer is a technology professional who has the necessary skills to plan, implement and oversee the computer networks that
+                 support in-house voice, data, video and wireless network services.</item>
+
+    </string-array>
+</resources>
